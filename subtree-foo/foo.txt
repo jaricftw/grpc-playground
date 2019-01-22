@@ -1,1 +1,3 @@
 hello foo
+
+modify foo in subtree
